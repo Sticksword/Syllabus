@@ -2,7 +2,7 @@ Web Design Syllabus
 ========
 
 A syllabus I made for a 1-credit course I taught
-<!DOCTYPE html>
+
 <html>
 <head ><h1 style="color:orange; font-family: cursive">Introduction to HTML/CSS/Javascript!</h1></head>
 <body>
