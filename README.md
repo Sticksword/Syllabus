@@ -28,7 +28,7 @@ Email: mzc2fd@virginia.edu
 </p>
 <h3 style="color:blue">Professor of Contact</h3>
 <p>
-Mark Sherriff
+Mark Sherif
 </p>
 <h3 style="color:blue">Textbooks</h3>
 <ol>
