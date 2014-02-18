@@ -1,7 +1,7 @@
 Web Design Syllabus
 ========
 
-A syllabus I made for a 1-credit course I taught
+A syllabus I made for summer Intro to Web Design course I taught
 
 <html>
 <head ><h1 style="color:orange; font-family: cursive">Introduction to HTML/CSS/Javascript!</h1></head>
@@ -14,7 +14,7 @@ Topics include HTML syntax, selectors, positioning, classes and ID's, element po
 </p>
 <h3 style="color:blue">Prerequisites</h3>
 <p>
-An introductory Computer Science course is recommended but not required. No previous computer science knowledge will be assumed.
+An introductory Computer Science course is not necessary but nice to have. No previous computer science knowledge will be assumed.
 </p>
 <h3 style="color:blue">Course Instructor</h3>
 <p>
@@ -26,21 +26,10 @@ Michael Chen - 2nd year Computer Science major whose interests include web devel
 <p>
 Email: mzc2fd@virginia.edu
 </p>
-<h3 style="color:blue">Professor of Contact</h3>
-<p>
-Mark Sherif
-</p>
 <h3 style="color:blue">Textbooks</h3>
 <ol>
 <li>Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics</li>
 </ol>
-<h3 style="color:blue">Grading Policy</h3>
-<p>
-Attendence will be worth 10% of the class grade.
-Homework projects will be worth 50% of the class grade. Each homework assignment is graded on a 0-4 scale.
-Quizzes will count 30% of the class grade. Each quiz will be 5 questions long and will test general understanding of content.
-Final project will count for 10% of the class grade.
-</p>
 <h2 style="color:orange">Weekly Schedule</h2>
 <h3 style="color:blue; font-family: cursive">Week 1</h3>
 <ul>
