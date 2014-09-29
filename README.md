@@ -21,12 +21,12 @@ An introductory Computer Science course is not necessary but nice to have. No pr
 For class related questions, comments, or concerns, contact the course instructor.
 </p>
 <p>
-Michael Chen - 2nd year Computer Science major whose interests include web development, app development, game development, and artificial intelligence.
+Michael Chen - Computer Science & Economics major whose interests know no bounds.
 </p>
 <p>
 Email: mzc2fd@virginia.edu
 </p>
-<h3 style="color:blue">Textbooks</h3>
+<h3 style="color:blue">Textbooks? Don't really need..</h3>
 <ol>
 <li>Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics</li>
 </ol>
